@@ -16,15 +16,15 @@
 | ID | Name | Code |
 | ------ | ------ | ------ |
 | prefixsum | Gấu và truy vấn tổng | [Code](2025-2026/online%202/lhpic2526_contest1_prefixsum.cpp) |
-| average | Gấu và điểm tổng kết môn | [Code](2025-2026/online%202/lhpic2526_contest2_average.cpp) |
-| coffee | Gấu và coffee | [Code](2025-2026/online%202/lhpic2526_contest2_coffee.cpp) |
-| gcdquery | Gấu và ước chung lớn nhất | [Code](2025-2026/online%202/lhpic2526_contest2_gcdquery.cpp) |
-| manghieu1 | Gấu và thao tác tăng mảng | [Code](2025-2026/online%202/lhpic2526_contest2_manghieu1.cpp) |
-| countingtriplet | Gấu và các bộ ba số | [Code](2025-2026/online%202/lhpic2526_contest2_countingtriplet.cpp) |
-| squaredis | Gấu và khoảng cách | [Code](2025-2026/online%202/lhpic2526_contest2_squaredis.cpp) |
-| counttri | Gấu và các bộ ba tam giác | [Code](2025-2026/online%202/lhpic2526_contest2_counttri.cpp) |
-| countarray | Gấu và bài toán đếm trên dãy | [Code](2025-2026/online%202/lhpic2526_contest2_countarray.cpp) |
-| sortper | Gấu và chim | [Code](2025-2026/online%202/lhpic2526_contest2_sortper.cpp) |
+| average | Gấu và điểm tổng kết môn | [Code](2025-2026/online%202/lhpic2526_contest1_average.cpp) |
+| coffee | Gấu và coffee | [Code](2025-2026/online%202/lhpic2526_contest1_coffee.cpp) |
+| gcdquery | Gấu và ước chung lớn nhất | [Code](2025-2026/online%202/lhpic2526_contest1_gcdquery.cpp) |
+| manghieu1 | Gấu và thao tác tăng mảng | [Code](2025-2026/online%202/lhpic2526_contest1_manghieu1.cpp) |
+| countingtriplet | Gấu và các bộ ba số | [Code](2025-2026/online%202/lhpic2526_contest1_countingtriplet.cpp) |
+| squaredis | Gấu và khoảng cách | [Code](2025-2026/online%202/lhpic2526_contest1_squaredis.cpp) |
+| counttri | Gấu và các bộ ba tam giác | [Code](2025-2026/online%202/lhpic2526_contest1_counttri.cpp) |
+| countarray | Gấu và bài toán đếm trên dãy | [Code](2025-2026/online%202/lhpic2526_contest1_countarray.cpp) |
+| sortper | Gấu và chim | [Code](2025-2026/online%202/lhpic2526_contest1_sortper.cpp) |
 
 #### Online 2
 | ID | Name | Code |
