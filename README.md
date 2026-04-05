@@ -7,10 +7,24 @@
 | Giới thiệu về lập trình thi đấu | [Drive](https://drive.google.com/drive/folders/1ngeLOwRZT4QKpvpRIor3_O4Akk5BkmXh) |
 | Xử lý mảng | [Drive](https://drive.google.com/drive/folders/1KXVW9BDBsnLV9lluSLO1jOGBKMv9_b87) |
 | Lý thuyết số | [Drive](https://drive.google.com/drive/folders/1ePX3HvRK0_EvLH7hZ6Osrpwng2WUuM7Q) |
+| Tìm kiếm - Sắp xếp | [Drive](https://drive.google.com/drive/folders/11WXLiGI__lYqskglK6fpLnL4LNQjzJ58?usp=drive_link) | 
 
 ## Solutions
 
 ### 2025/26
+
+#### Online 3
+| ID | Name | Code |
+| ------ | ------ | ------ |
+| selection | Gấu và Selection sort | [Code](2025-2026/online%203/lhpic2526_contest3_selection.cpp) |
+| hamburger | Gấu và hamburger | [Code](2025-2026/online%203/lhpic2526_contest3_hamburger.cpp) |
+| letter | Gấu và những bao thư | [Code](2025-2026/online%203/lhpic2526_contest3_letter.cpp) |
+| table | Gấu Và Ma Trận Đá Quý | [Code](2025-2026/online%203/lhpic2526_contest3_table.cpp) |
+| inversion2 | Gấu và Bubble sort | [Code](2025-2026/online%203/lhpic2526_contest3_inversion2.cpp) |
+| her | Gấu và "em" | [Code](2025-2026/online%203/lhpic2526_contest3_her.cpp) |
+| mex | Gấu và bài toán tìm MEX | [Code](2025-2026/online%203/lhpic2526_contest3_mex.cpp) |
+| lhpclass | Gấu và tổ hợp môn | [Code](2025-2026/online%203/lhpic2526_contest3_lhpclass.cpp) |
+| median | Gấu và những trung vị | [Code](2025-2026/online%203/lhpic2526_contest3_median.cpp) |
 
 #### Online 2
 | ID | Name | Code |
