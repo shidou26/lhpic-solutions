@@ -8,10 +8,25 @@
 | Xử lý mảng | [Drive](https://drive.google.com/drive/folders/1KXVW9BDBsnLV9lluSLO1jOGBKMv9_b87) |
 | Lý thuyết số | [Drive](https://drive.google.com/drive/folders/1ePX3HvRK0_EvLH7hZ6Osrpwng2WUuM7Q) |
 | Tìm kiếm - Sắp xếp | [Drive](https://drive.google.com/drive/folders/11WXLiGI__lYqskglK6fpLnL4LNQjzJ58?usp=drive_link) | 
+| Quay lui - Vét cạn | [Drive](https://drive.google.com/drive/folders/1hLFGTyHw6KyxMrqY4gOSCDVhsqx8KflQ) |
 
 ## Solutions
 
 ### 2025/26
+
+#### Online 4
+| ID | Name | Code |
+| ------ | ------ | ------ |
+| alone | Gấu và nỗi cô đơn vô hạn | [Code](2025-2026/online%203/lhpic2526_contest4_alone.cpp) |
+| crocodile | Gấu và cá sấu | [Code](2025-2026/online%203/lhpic2526_contest4_crocodile.cpp) |
+| gamer | Gấu và hành trình làm game thủ | [Code](2025-2026/online%203/lhpic2526_contest4_gamer.cpp) |
+| sum | Gấu và bài toán tìm tổng | [Code](2025-2026/online%203/lhpic2526_contest4_sum.cpp) |
+| battle | Gấu và trận chiến sinh tử | [Code](2025-2026/online%203/lhpic2526_contest4_battle.cpp) |
+| fullstring | Gấu và xâu đầy đủ | [Code](2025-2026/online%203/lhpic2526_contest4_fullstring.cpp) |
+| fence | Gấu và hàng rào | [Code](2025-2026/online%203/lhpic2526_contest4_fence.cpp) |
+| arrow | Gấu và mê cung mũi tên | [Code](2025-2026/online%203/lhpic2526_contest4_arrow.cpp) |
+| horse | Mã đi tuần | [Code](2025-2026/online%203/lhpic2526_contest4_horse.cpp) |
+| sudoku | Sudoku | [Code](2025-2026/online%203/lhpic2526_contest4_sudoku.cpp) |
 
 #### Online 3
 | ID | Name | Code |
